@@ -1,9 +1,5 @@
 # Hi there, I'm Dani - aka [ALifeLivedFully][youtube] 👋 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ALifeLivedFully?color=1DA1F2&label=%40ALifeLivedFully&logo=twitter&style=for-the-badge)](https://twitter.com/ALifeLivedFully)
-
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/ALifeLivedFully?color=1DA1F2&label=%40ALifeLivedFully&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ALifeLivedFully)
 
 ## I'm always learning and tinkering!
 
