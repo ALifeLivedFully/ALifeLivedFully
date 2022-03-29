@@ -1,5 +1,5 @@
 # Hi there, I'm Dani - aka [ALifeLivedFully][youtube] 👋 
-![Twitter Follow](https://img.shields.io/twitter/follow/ALifeLivedFully?color=1DA1F2&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/ALifeLivedFully?color=1DA1F2&label=%40ALifeLivedFully&logo=twitter&style=for-the-badge)
 
 ## I'm always learning and tinkering!
 
