@@ -1,70 +1,21 @@
-# Hi there, I'm Dani - aka [ALifeLivedFully][youtube] 👋 
+# Hi there, I'm Dani - aka [ALifeLivedFully][twitter] 👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ALifeLivedFully?color=1DA1F2&label=%40ALifeLivedFully&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ALifeLivedFully)
 
 ## I'm always learning and tinkering!
 
-- 🌱 I’m currently learning everything I can 🥰
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything I can. 🥰
+- 👯 I’m looking to collaborate with other people to expand my knowledge and experience.
 - 🥅 2022 Goals: Learn more about web3, learn to contribute to open source developement, and make the world a bit better.
-- ⚡ Fun fact: I love to ride and fix my motorbike as well as 3D print.
+- 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ALifeLivedFully.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ALifeLivedFully.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/ALifeLivedFully#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/ALifeLivedFully#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ALifeLivedFully#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ALifeLivedFully#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ALifeLivedFully#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ALifeLivedFully#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ALifeLivedFully#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ALifeLivedFully#gh-dark-mode-only)
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/ALifeLivedFully)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://Blog.ALifeLivedFully.com)
 
 ---
 
