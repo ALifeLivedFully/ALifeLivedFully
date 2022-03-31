@@ -11,7 +11,13 @@
 ### Connect with me:
 
 
-### Languages and Tools:
+### Languages and tools I like:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 
 <br />
@@ -31,6 +37,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ALifeLivedFully's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ALifeLivedFully&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="ALifeLivedFully's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifelivedfully&layout=compact" />
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 </details>
 
