@@ -14,10 +14,10 @@
 ### Languages and tools I like:
 [![Visual Studio Code](./Images/VisualStudioCode.svg)](https://code.visualstudio.com/)
 [![Shell Script](./Images/shell_script.svg)](https://www.shellscript.sh/)
-[![HTML5](./Images/html.svg)](https://www.w3schools.com/html/)
+[![HTML5](./Images/html5.svg)](https://www.w3schools.com/html/)
 [![Go](./Images/golang.svg)](https://go.dev/)
 [![Markdown](./Images/markdown.svg)](https://www.markdownguide.org/)
-[![Solidity](./Images/solidity.svg)](https://soliditylang.org/)
+[![Solidity](./Images/Solidity.svg)](https://soliditylang.org/)
 
 
 <br />
