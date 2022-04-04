@@ -13,11 +13,11 @@
 
 ### Languages and tools I like:
 [![Visual Studio Code](./Images/VisualStudioCode.svg)](https://code.visualstudio.com/)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Shell Script](./Images/shell_script.svg)](https://www.shellscript.sh/)
+[![HTML5](./Images/html.svg)](https://www.w3schools.com/html/)
+[![Go](./Images/golang.svg)](https://go.dev/)
+[![Markdown](./Images/markdown.svg)](https://www.markdownguide.org/)
+[![Solidity](./Images/solidity.svg)](https://soliditylang.org/)
 
 
 <br />
