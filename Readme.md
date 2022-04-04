@@ -12,7 +12,7 @@
 
 
 ### Languages and tools I like:
-[![Visual Studio Code](/Images/VisualStudioCode.svg)](https://code.visualstudio.com/)
+[![Visual Studio Code](./Images/VisualStudioCode.svg)](https://code.visualstudio.com/)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
