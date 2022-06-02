@@ -9,6 +9,9 @@
 - 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
 
 ### Connect with me:
+[My Up To Date Links][links]
+[My Website][Website]
+[My Twitter][twitter]
 
 
 ### Languages and tools I like:
@@ -43,6 +46,7 @@
 </details>
 
 [website]: https://ALifeLivedFully.com
+[links]: https://Links.ALifeLivedFully.com
 [twitter]: https://twitter.com/ALifeLivedFully
 [youtube]: https://youtube.com/ALifeLivedFully
 [instagram]: https://instagram.com/ALifeLivedFully
