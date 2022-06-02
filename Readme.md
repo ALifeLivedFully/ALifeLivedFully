@@ -9,10 +9,9 @@
 - 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
 
 ### Connect with me:
-[My Up To Date Links][links]
-[My Website][Website]
-[My Twitter][twitter]
-
+[My Up To Date Links][links]<br />
+[My Website][Website]<br />
+[My Twitter][twitter]<br />
 
 ### Languages and tools I like:
 [![Visual Studio Code](Images/VisualStudioCode.svg)](https://code.visualstudio.com/)
