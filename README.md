@@ -8,7 +8,26 @@
 - 🥅 2022 Goals: Learn more about web3, learn to contribute to open source developement, and make the world a bit better.
 - 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
 
-### Connect with me:
+### Languages and tools I like:
+[![Visual Studio Code](Images/VisualStudioCode.svg)](https://code.visualstudio.com/)
+[![Shell Script](Images/shell_script.svg)](https://www.shellscript.sh/)
+[![HTML5](Images/html5.svg)](https://www.w3schools.com/html/)
+[![Go](Images/golang.svg)](https://go.dev/)
+[![Markdown](Images/markdown.svg)](https://www.markdownguide.org/)
+[![Solidity](Images/Solidity.svg)](https://soliditylang.org/)
+
+<h3 align="center">Languages and tools:</h3>
+<p align="center">
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="Images/VisualStudioCode.svg" alt="Visual Studio Code"/></a>
+<a href="https://www.shellscript.sh/" target="blank"><img align="center" src="Images/shell_script.svg" alt="Shell script"/></a>
+<a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="Images/html5.svg" alt="HTML5"/></a>
+<a href="https://go.dev/" target="blank"><img align="center" src="Images/golang.svg" alt="GoLang"/></a>
+<a href="https://www.markdownguide.org/" target="blank"><img align="center" src="Images/markdown.svg" alt="Markdown"/></a>
+<a href="https://soliditylang.org/" target="blank"><img align="center" src="Images/Solidity.svg" alt="Solidity"/></a>
+<a href="https://www.rust-lang.org/" target="blank"><img align="center" src="" alt="Rust"/></a>
+</p>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/alifelivedfully" target="blank"><img align="center" src="Images/codepen.svg" alt="alifelivedfully" height="30" width="40" /></a>
