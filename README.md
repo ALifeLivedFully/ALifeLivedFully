@@ -8,14 +8,6 @@
 - 🥅 2022 Goals: Learn more about web3, learn to contribute to open source developement, and make the world a bit better.
 - 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
 
-### Languages and tools I like:
-[![Visual Studio Code](Images/VisualStudioCode.svg)](https://code.visualstudio.com/)
-[![Shell Script](Images/shell_script.svg)](https://www.shellscript.sh/)
-[![HTML5](Images/html5.svg)](https://www.w3schools.com/html/)
-[![Go](Images/golang.svg)](https://go.dev/)
-[![Markdown](Images/markdown.svg)](https://www.markdownguide.org/)
-[![Solidity](Images/Solidity.svg)](https://soliditylang.org/)
-
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="Images/VisualStudioCode.svg" alt="Visual Studio Code"/></a>
