@@ -1,44 +1,53 @@
-<h1 align="center">Hi 👋, I'm Dani - aka ALifeLivedFully</h1>
-<h3 align="center">A passionate solidity developer from the USA</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alifelivedfully&label=Profile%20views&color=0e75b6&style=flat" alt="alifelivedfully" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alifelivedfully" alt="alifelivedfully" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/alifelivedfully" target="blank"><img src="https://img.shields.io/twitter/follow/alifelivedfully?logo=twitter&style=for-the-badge" alt="alifelivedfully" /></a> </p>
-
-- 🔭 I’m currently working on [project 1](alifelivedfully.com)
-
-- 👯 I’m looking to collaborate on [project 2](alifelivedfully.com)
-
-- 🤝 I’m looking for help with [project 3](alifelivedfully.com)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/alifelivedfully" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alifelivedfully" height="30" width="40" /></a>
-<a href="https://twitter.com/alifelivedfully" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alifelivedfully" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alifelivedfully" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alifelivedfully" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20210288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20210288" height="30" width="40" /></a>
-<a href="https://fb.com/alifelivedfully" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alifelivedfully" height="30" width="40" /></a>
-<a href="https://medium.com/@alifelivedfully" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alifelivedfully" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@alifelivedfully" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@alifelivedfully" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+# Hi there, I'm Dani - aka [ALifeLivedFully][Website] 👋 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ALifeLivedFully?color=1DA1F2&label=%40ALifeLivedFully&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ALifeLivedFully)
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alifelivedfully"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alifelivedfully" /></a><a href="https://ko-fi.com/alifelivedfully"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alifelivedfully" /></a></p><br><br>
+## I'm always learning and tinkering!
+
+- 🌱 I’m currently learning everything I can. 🥰
+- 👯 I’m looking to collaborate with other people to expand my knowledge and experience.
+- 🥅 2022 Goals: Learn more about web3, learn to contribute to open source developement, and make the world a bit better.
+- 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
+
+### Connect with me:
+[My Up To Date Links][links]<br />
+[My Website][Website]<br />
+[My Twitter][twitter]<br />
+
+### Languages and tools I like:
+[![Visual Studio Code](Images/VisualStudioCode.svg)](https://code.visualstudio.com/)
+[![Shell Script](Images/shell_script.svg)](https://www.shellscript.sh/)
+[![HTML5](Images/html5.svg)](https://www.w3schools.com/html/)
+[![Go](Images/golang.svg)](https://go.dev/)
+[![Markdown](Images/markdown.svg)](https://www.markdownguide.org/)
+[![Solidity](Images/Solidity.svg)](https://soliditylang.org/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alifelivedfully&show_icons=true&locale=en&layout=compact" alt="alifelivedfully" /></p>
+<br />
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifelivedfully&show_icons=true&locale=en" alt="alifelivedfully" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifelivedfully&" alt="alifelivedfully" /></p>
+<details>
+  <summary>:watch: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
+</details>
+
+<details>
+  <summary>:bar_chart: GitHub Stats</summary>
+
+  <img align="left" alt="ALifeLivedFully's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ALifeLivedFully&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="ALifeLivedFully's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifelivedfully&layout=compact" />
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+
+</details>
+
+[website]: https://ALifeLivedFully.com
+[links]: https://Links.ALifeLivedFully.com
+[twitter]: https://twitter.com/ALifeLivedFully
+[youtube]: https://youtube.com/ALifeLivedFully
+[instagram]: https://instagram.com/ALifeLivedFully
+[linkedin]: https://linkedin.com/in/ALifeLivedFully
