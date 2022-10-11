@@ -8,6 +8,10 @@
 - 🥅 2022 Goals: Learn more about web3, learn to contribute to open source developement, and make the world a bit better.
 - 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="Images/VisualStudioCode.svg" alt="Visual Studio Code"/></a>
