@@ -1,6 +1,7 @@
 # Hi there, I'm Dani - aka [ALifeLivedFully][Website] 👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ALifeLivedFully?color=1DA1F2&label=%40ALifeLivedFully&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ALifeLivedFully)
 
+
 ## I'm always learning and tinkering!
 
 - 🌱 I’m currently learning everything I can. 🥰
