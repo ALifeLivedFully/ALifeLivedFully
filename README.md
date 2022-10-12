@@ -8,11 +8,6 @@
 - 🥅 2022 Goals: Learn more about web3, learn to contribute to open source developement, and make the world a bit better.
 - 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
 
-<h3 align="center">Blog posts:</h3>
-<p align="center">
-<!-- BLOG-POST-LIST:START --><a href="https://alifelivedfully.medium.com/example-blog-post-2-d5e60922fc04?source=rss-e0a0047dc855------2">Example blog post #2</a><a href="https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2">Example Blog Post #1</a><!-- BLOG-POST-LIST:END -->
-</p>
-
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="Images/VisualStudioCode.svg" alt="Visual Studio Code"/></a>
@@ -43,7 +38,7 @@
 ---
 
 <details>
-  <summary>Blog posts:</summary>
+  <summary>Recent Blog posts:</summary>
   
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
