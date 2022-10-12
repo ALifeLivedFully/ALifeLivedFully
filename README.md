@@ -40,6 +40,8 @@
 <details>
   <summary>Recent Podcasts:</summary>  
 <!-- PODCAST-POST-LIST:START -->
+- [Coming soon...](https://anchor.fm/alifelivedfully/episodes/Coming-soon-e1je4qa)
+- [ALifeLivedFully &lpar;Trailer&rpar;](https://anchor.fm/alifelivedfully/episodes/ep-e1je51b)
 <!-- PODCAST-POST-LIST:END -->
 <a href='https://anchor.fm/alifelivedfully/'>See More Here...</a>
 </details>
