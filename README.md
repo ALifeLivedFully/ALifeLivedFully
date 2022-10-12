@@ -45,10 +45,7 @@
 
 <details>
   <summary>Recent Blog posts:</summary>
-<!-- BLOG-POST-LIST:START -->
-<a href='https://alifelivedfully.medium.com/example-blog-post-2-d5e60922fc04?source=rss-e0a0047dc855------2'>Example blog post #2</a></br>
-<a href='https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2'>Example Blog Post #1</a></br>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href='https://alifelivedfully.medium.com/example-blog-post-2-d5e60922fc04?source=rss-e0a0047dc855------2'>Example blog post #2</a></br><a href='https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2'>Example Blog Post #1</a></br><!-- BLOG-POST-LIST:END -->
 <a href='https://alifelivedfully.medium.com/'>See More Here...</a>
 </details>
 
