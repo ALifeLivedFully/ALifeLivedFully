@@ -8,12 +8,10 @@
 - 🥅 2022 Goals: Learn more about web3, learn to contribute to open source developement, and make the world a bit better.
 - 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
 
-<h3 align="center">
-  Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Example Blog Post #1](https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2)
 <!-- BLOG-POST-LIST:END -->
-</h3>
 
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
