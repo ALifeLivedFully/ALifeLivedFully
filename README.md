@@ -9,7 +9,9 @@
 - 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
 
 ## Blog posts
-<!-- BLOG-POST-LIST:START --><tr><td>Example blog post #2</td><td>https://alifelivedfully.medium.com/example-blog-post-2-d5e60922fc04?source=rss-e0a0047dc855------2</td></tr><tr><td>Example Blog Post #1</td><td>https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2</td></tr><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<tr><td>Example blog post #2</td><td>https://alifelivedfully.medium.com/example-blog-post-2-d5e60922fc04?source=rss-e0a0047dc855------2</td></tr><tr><td>Example Blog Post #1</td><td>https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2</td></tr>
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
