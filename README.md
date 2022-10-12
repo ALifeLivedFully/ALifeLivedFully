@@ -49,6 +49,8 @@
 <details>
   <summary>Recent Blog posts:</summary>
 <!-- BLOG-POST-LIST:START -->
+- [Coming soon...](https://anchor.fm/alifelivedfully/episodes/Coming-soon-e1je4qa)
+- [ALifeLivedFully &lpar;Trailer&rpar;](https://anchor.fm/alifelivedfully/episodes/ep-e1je51b)
 <!-- BLOG-POST-LIST:END -->
 - [See More Here...](https://medium.com/@alifelivedfully)
 </details>
