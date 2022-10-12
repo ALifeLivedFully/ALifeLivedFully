@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://medium.com/@alifelivedfully/feed"
           max_post_count: 3
+          template: "<tr><td>$title</td><td>$url</td></tr>"
