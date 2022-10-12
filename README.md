@@ -43,21 +43,16 @@
 ---
 
 <details>
-  <summary>:watch: Recent GitHub Activity</summary>
+  <summary>Blog posts:</summary>
   
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 
-<details>
-  <summary>:bar_chart: GitHub Stats</summary>
 
-  <img align="left" alt="ALifeLivedFully's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ALifeLivedFully&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img align="left" alt="ALifeLivedFully's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifelivedfully&layout=compact" />
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
-</details>
+
 
 [website]: https://ALifeLivedFully.com
 [links]: https://Links.ALifeLivedFully.com
