@@ -10,6 +10,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Example blog post #2](https://alifelivedfully.medium.com/example-blog-post-2-d5e60922fc04?source=rss-e0a0047dc855------2)
+- [Example Blog Post #1](https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Languages and tools:</h3>
