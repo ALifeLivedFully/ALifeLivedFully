@@ -38,17 +38,20 @@
 ---
 
 <details>
-  <summary>Recent Blog posts:</summary>
-  
-<!-- BLOG-POST-LIST:START -->
+  <summary>Recent Podcasts:</summary>  
+<!-- PODCAST-POST-LIST:START -->
 - [Coming soon...](https://anchor.fm/alifelivedfully/episodes/Coming-soon-e1je4qa)
 - [ALifeLivedFully &lpar;Trailer&rpar;](https://anchor.fm/alifelivedfully/episodes/ep-e1je51b)
-<!-- BLOG-POST-LIST:END -->
-
+<!-- PODCAST-POST-LIST:END -->
+- [See More Here...](https://anchor.fm/alifelivedfully/)
 </details>
 
-
-
+<details>
+  <summary>Recent Blog posts:</summary>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+- [See More Here...](https://medium.com/@alifelivedfully)
+</details>
 
 
 [website]: https://ALifeLivedFully.com
