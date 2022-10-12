@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest podcast post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -6,14 +6,15 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repos README with latest blog posts from users medium account
+    name: Update this repos README with latest podcast posts from users anchor.fm account
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in medium posts
+      - name: Pull in anchor posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          comment_tag_name: "PODCAST-POST-LIST"
           feed_list: "https://anchor.fm/s/82f19dfc/podcast/rss"
-          max_post_count: 3
+          max_post_count: 5
           
