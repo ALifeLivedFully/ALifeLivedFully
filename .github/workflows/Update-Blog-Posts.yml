@@ -14,7 +14,6 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/@alifelivedfully/feed"
+          feed_list: "https://anchor.fm/s/82f19dfc/podcast/rss"
           max_post_count: 3
-          template: '<a href="$url">$title</a>'
           
