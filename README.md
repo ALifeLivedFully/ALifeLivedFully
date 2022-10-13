@@ -51,8 +51,12 @@
 
 <details>
   <summary>🔒PGP Public Key:</summary>
-  <p>To ensure private communication check <a href='https://keybase.io/alifelivedfully'>my Keybase.io</a> for up to date encryption keys.</p>
-  'this is a test of a code block i hope'
+  <p>To ensure private communication check <a href='https://keybase.io/alifelivedfully'>my Keybase.io</a> for up to date encryption keys.</p></br>
+
+```
+enter pgp public key here
+```
+
 </details>
 
 
