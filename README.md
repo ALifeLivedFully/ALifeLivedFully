@@ -49,6 +49,12 @@
 <a href='https://alifelivedfully.medium.com/'>See More Here...</a>
 </details>
 
+<details>
+  <summary>🔒PGP Public Key:</summary>
+  <p>To ensure private communication check <a href='https://keybase.io/alifelivedfully'>my Keybase.io</a> for up to date encryption keys.</p>
+  'this is a test of a code block i hope'
+</details>
+
 
 [website]: https://ALifeLivedFully.com
 [links]: https://Links.ALifeLivedFully.com
