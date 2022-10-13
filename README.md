@@ -20,7 +20,7 @@
 <a href="https://go.dev/" target="blank"><img align="center" src="Images/golang.svg" alt="GoLang"/></a>
 <a href="https://www.markdownguide.org/" target="blank"><img align="center" src="Images/markdown.svg" alt="Markdown"/></a>
 <a href="https://soliditylang.org/" target="blank"><img align="center" src="Images/Solidity.svg" alt="Solidity"/></a>
-<a href="https://www.rust-lang.org/" target="blank"><img align="center" src="Images/Solidity.svg" alt="Rust"/></a>
+<a href="https://www.rust-lang.org/" target="blank"><img align="center" src="Images/Rust.svg" alt="Rust"/></a>
 </p>
 
 
