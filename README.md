@@ -1,5 +1,9 @@
 <h1 align="center">👋Hi there, I'm Dani - aka <a href="https://links.alifelivedfully.com">ALifeLivedFully</a>👋</h1>
-<h3 align="center">A passionate developer and creator.</h3>
+<h3 align="center">
+  
+  ```A passionate developer and creator.```
+  
+</h3>
 
 ## I'm always learning and tinkering!
 
@@ -16,7 +20,7 @@
 <a href="https://go.dev/" target="blank"><img align="center" src="Images/golang.svg" alt="GoLang"/></a>
 <a href="https://www.markdownguide.org/" target="blank"><img align="center" src="Images/markdown.svg" alt="Markdown"/></a>
 <a href="https://soliditylang.org/" target="blank"><img align="center" src="Images/Solidity.svg" alt="Solidity"/></a>
-<a href="https://www.rust-lang.org/" target="blank"><img align="center" src="" alt="Rust"/></a>
+<a href="https://www.rust-lang.org/" target="blank"><img align="center" src="Images/Solidity.svg" alt="Rust"/></a>
 </p>
 
 
