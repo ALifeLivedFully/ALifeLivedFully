@@ -28,7 +28,7 @@
 <a href="https://stackoverflow.com/users/20210288" target="blank"><img align="center" src="Images/stack-overflow.svg" alt="20210288" height="30" width="40" /></a>
 <a href="https://fb.com/alifelivedfully" target="blank"><img align="center" src="Images/facebook.svg" alt="alifelivedfully" height="30" width="40" /></a>
 <a href="https://medium.com/@alifelivedfully" target="blank"><img align="center" src="Images/medium.svg" alt="@alifelivedfully" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@alifelivedfully" target="blank"><img align="center" src="Images/rss.svg" alt="https://medium.com/feed/@alifelivedfully" height="30" width="40" /></a>
+<a href="https://medium.com/feed/@alifelivedfully" target="blank"><img align="center" src="Images/rss.svg" alt="https://medium.com/feed/@alifelivedfully" height="30" width="40" /></a>
 </p>
 
 
