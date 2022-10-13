@@ -1,9 +1,5 @@
 <h1 align="center">👋Hi there, I'm Dani - aka <a href="https://links.alifelivedfully.com">ALifeLivedFully</a>👋</h1>
-<h3 align="center">
-  
-  ```A passionate developer and creator.```
-  
-</h3>
+<h3 align="center">A passionate developer and creator.</h3>
 <p align="center">about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me</p>
 
 ---
@@ -37,24 +33,6 @@ im also working on <a href='https://alifelivedfully.medium.com/'>Project #2</a>
 <a href="https://medium.com/@alifelivedfully" target="blank"><img align="center" src="Images/medium.svg" alt="@alifelivedfully" height="30" width="40" /></a>
 <a href="https://medium.com/feed/@alifelivedfully" target="blank"><img align="center" src="Images/rss.svg" alt="https://medium.com/feed/@alifelivedfully" height="30" width="40" /></a>
 </p>
-
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>Recent Podcasts:</summary>  
-<!-- PODCAST-POST-LIST:START --><a href='https://anchor.fm/alifelivedfully/episodes/Coming-soon-e1je4qa'>Coming soon...</a></br><a href='https://anchor.fm/alifelivedfully/episodes/ep-e1je51b'>ALifeLivedFully &lpar;Trailer&rpar;</a></br><!-- PODCAST-POST-LIST:END -->
-<a href='https://anchor.fm/alifelivedfully/'>See More Here...</a>
-</details>
-
-<details>
-  <summary>Recent Blog posts:</summary>
-<!-- BLOG-POST-LIST:START --><a href='https://alifelivedfully.medium.com/example-blog-post-2-d5e60922fc04?source=rss-e0a0047dc855------2'>Example blog post #2</a></br><a href='https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2'>Example Blog Post #1</a></br><!-- BLOG-POST-LIST:END -->
-<a href='https://alifelivedfully.medium.com/'>See More Here...</a>
-</details>
 
 <details>
   <summary>🔒PGP Public Key:</summary>
