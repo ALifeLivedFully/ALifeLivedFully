@@ -4,13 +4,16 @@
   ```A passionate developer and creator.```
   
 </h3>
+<p align="center">about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me, about me</p>
 
-## What I'm up to:
+---
 
-- 🌱 I’m currently learning everything I can. 🥰
-- 👯 I’m looking to collaborate with other people to expand my knowledge and experience.
-- 🥅 2022 Goals: Learn more about web3, learn to contribute to open source developement, and make the world a bit better.
-- 🛶 Hobbies: I enjoy riding and fixing my motorbike, playing in VR, 3D Printing, home brewing, fermenting, and cooking.
+<h1 align="center">What I'm up to:</h1>
+<p align="center">I am mainly working on <a href='https://alifelivedfully.medium.com/'>Project #1</a></br>
+im also working on <a href='https://alifelivedfully.medium.com/'>Project #2</a>
+</p>
+
+---
 
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
