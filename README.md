@@ -7,6 +7,19 @@
 <h1 align="center">What I'm up to:</h1>
 <p align="center">I am mainly working on <a href='https://alifelivedfully.medium.com/'>Project #1</a></br>
 im also working on <a href='https://alifelivedfully.medium.com/'>Project #2</a>
+
+<details>
+  <summary>Recent Podcasts:</summary>  
+<!-- PODCAST-POST-LIST:START --><a href='https://anchor.fm/alifelivedfully/episodes/Coming-soon-e1je4qa'>Coming soon...</a></br><a href='https://anchor.fm/alifelivedfully/episodes/ep-e1je51b'>ALifeLivedFully &lpar;Trailer&rpar;</a></br><!-- PODCAST-POST-LIST:END -->
+<a href='https://anchor.fm/alifelivedfully/'>See More Here...</a>
+</details>
+
+<details>
+  <summary>Recent Blog posts:</summary>
+<!-- BLOG-POST-LIST:START --><a href='https://alifelivedfully.medium.com/example-blog-post-2-d5e60922fc04?source=rss-e0a0047dc855------2'>Example blog post #2</a></br><a href='https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2'>Example Blog Post #1</a></br><!-- BLOG-POST-LIST:END -->
+<a href='https://alifelivedfully.medium.com/'>See More Here...</a>
+</details>
+
 </p>
 
 ---
@@ -34,10 +47,12 @@ im also working on <a href='https://alifelivedfully.medium.com/'>Project #2</a>
 <a href="https://medium.com/feed/@alifelivedfully" target="blank"><img align="center" src="Images/rss.svg" alt="https://medium.com/feed/@alifelivedfully" height="30" width="40" /></a>
 </p>
 
+---
+
 <details>
   <summary>🔒PGP Public Key:</summary>
   <p>To ensure private communication check <a href='https://keybase.io/alifelivedfully'>my Keybase.io</a> for up to date encryption keys.</p>
-
+  
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: https://keybase.io/download
