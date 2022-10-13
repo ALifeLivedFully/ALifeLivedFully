@@ -5,7 +5,7 @@
   
 </h3>
 
-## What I am up to:
+## What I'm up to:
 
 - 🌱 I’m currently learning everything I can. 🥰
 - 👯 I’m looking to collaborate with other people to expand my knowledge and experience.
