@@ -5,8 +5,7 @@
 ---
 
 <h1 align="center">What I'm up to:</h1>
-<p align="center">I am mainly working on <a href='https://alifelivedfully.medium.com/'>Project #1</a></br>
-im also working on <a href='https://alifelivedfully.medium.com/'>Project #2</a>
+<p align="center">I am mainly focusing on <a href='https://github.com/ALifeLivedFully/SpeedrunEthereum/'>Speedrunning Ethereum</a>, you can also check my progress on <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum.com</a></br>
 
 <details>
   <summary>Recent Podcasts:</summary>  
