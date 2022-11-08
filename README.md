@@ -3,15 +3,34 @@
 <p align="center">I like to code and build things, recently i have been focusing on building my portfolio and gaining as much knowledge as i can in topics that peak my intrest. other than coding, I enjoy camping, travel, home brewing, small engine repair, cooking, reading, and more.</p>
 
 
+<br/>
+<h1 align="center">What I'm learning:</h1>
+<p align="center">
+  1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a>. I try to track my progress<a href='https://github.com/ALifeLivedFully/SpeedrunEthereum'>Github</a> and on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.
+</p>
+<p align="center">
+  2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org</a>. I try to track my progress both on <a href='https://github.com/ALifeLivedFully/FreeCodeCamp'>Github</a> as well as on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.
+</p>
+<br/>
 
-<h1 align="center">What I'm up to:</h1>
 
-<p align="center">1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a>. I try to track my progress on <a href='https://github.com/ALifeLivedFully/SpeedrunEthereum'>Github</a> and on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.</br>
-
-<p align="center">2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org</a>. I try to track my progress both on <a href='https://github.com/ALifeLivedFully/FreeCodeCamp'>Github</a> as well as on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.</br>
-
+<h1 align="center">What I'm building:</h1>
+<p align="center">1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully.com</a>. My personal website and the future central hub of my online presence.
 </p>
 
+<!--
+
+<p align="center">2. <a href='https://www.Moneyshots.io/'>ALifeLivedFully.com</a>. An online hub for creators of adult content.
+</p>
+
+<p align="center">2. <a href='https://www.NiftyMiners.com/'>NiftyMiners.com</a>. A small resource management game simulating a mining colony.
+</p>
+
+<p align="center">2. <a href='https://www.ArtistsGuild.com/'>ArtistsGuild.com</a>. A platform for artists to more easily monitize their art and create a more profitable practice.
+</p>
+
+-->
+<br/>
 
 
 <h3 align="center">Languages and tools:</h3>
@@ -47,7 +66,9 @@
 
 <details>
   <summary>Recent Blog posts:</summary>
-<!-- BLOG-POST-LIST:START --><a href='https://alifelivedfully.medium.com/example-blog-post-2-d5e60922fc04?source=rss-e0a0047dc855------2'>Example blog post #2</a></br><a href='https://alifelivedfully.medium.com/example-blog-post-1-4c6c25323a94?source=rss-e0a0047dc855------2'>Example Blog Post #1</a></br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+  
+<!-- BLOG-POST-LIST:END -->
 <a href='https://alifelivedfully.medium.com/'>See More Here...</a>
 </details>
 
