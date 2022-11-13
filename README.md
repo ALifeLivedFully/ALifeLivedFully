@@ -14,8 +14,10 @@
 <br/>
 
 
-<h1 align="center">What I'm building:</h1>
-<p align="center">1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully.com</a>. My personal website and the future central hub of my online presence.
+<h1 align="center">My Projects:</h1>
+<p align="center">1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully.com</a></br> My personal website and the future central hub of my online presence.
+</p>
+<p align="center">2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a></br> This project creates a video with your reusable intro, inserts an ad in the middle of your main video, and then plays your outro all using remotion.
 </p>
 
 <!--
