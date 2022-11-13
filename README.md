@@ -6,7 +6,7 @@
 <br/>
 <h1 align="center">What I'm learning:</h1>
 <p align="center">
-  1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a>. I try to track my progress<a href='https://github.com/ALifeLivedFully/SpeedrunEthereum'>Github</a> and on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.
+  1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a>. I try to track my progress on <a href='https://github.com/ALifeLivedFully/SpeedrunEthereum'>Github</a> and on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.
 </p>
 <p align="center">
   2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org</a>. I try to track my progress both on <a href='https://github.com/ALifeLivedFully/FreeCodeCamp'>Github</a> as well as on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.
