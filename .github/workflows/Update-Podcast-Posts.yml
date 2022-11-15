@@ -17,5 +17,5 @@ jobs:
           comment_tag_name: "PODCAST-POST-LIST"
           feed_list: "https://anchor.fm/s/82f19dfc/podcast/rss"
           max_post_count: 5
-          template: "<a href='$url'>$title</a> </br> "
+          template: "<a href='$url'>$title</a> <br> "
           
