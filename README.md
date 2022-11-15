@@ -5,20 +5,25 @@
 
 <br/>
 <h2 align="center">What I'm learning:</h2>
-<p align="center">
-  1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a>. I try to track my progress on <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/SpeedRunEthereum-Progress.md'>Github</a> and on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.
+<p align="center">1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a>.</p> 
+<p align="center">I try to track my progress on <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/SpeedRunEthereum-Progress.md'>Github</a> and on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.
 </p>
+<br/>
 <p align="center">
-  2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org</a>. I try to track my progress both on <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/FreeCodeCamp-Progress.md'>Github</a> as well as on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.
+  2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org</a>.</p>
+  <p align="center">I try to track my progress both on <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/FreeCodeCamp-Progress.md'>Github</a> as well as on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.
 </p>
 <br/>
 
 
 <h2 align="center">My Projects:</h2>
-<p align="center">1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully.com</a> </br> My personal website and the future central hub of my online presence.
+<p align="center">1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully.com</a></p> 
+<p align="center">My personal website and the future central hub of my online presence.</p>
+<br/>
+<p align="center">2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a></p> 
+<p align="center">This project creates a video with your reusable intro, inserts an ad in the middle of your main video, and then plays your outro all using remotion.
 </p>
-<p align="center">2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a> </br> This project creates a video with your reusable intro, inserts an ad in the middle of your main video, and then plays your outro all using remotion.
-</p>
+<br/>
 
 <!--
 
@@ -32,12 +37,11 @@
 </p>
 
 -->
-<br/>
+
 
 <h2 align="center">My latest experiments:</h2>
-<p align="center">1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a></br> 
-  A minimal terminal styled website, powered by Next.js. Code stored on <a href="https://github.com/ALifeLivedFully/LiveTerm">Github</a> and automatically deployed to <a href="https://live-term-alifelivedfully.vercel.app/">Vercel</a>
-</p>
+<p align="center">1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a>.</p>
+<p align="center">A minimal terminal styled website, powered by Next.js. Code stored on <a href="https://github.com/ALifeLivedFully/LiveTerm">Github</a> and automatically deployed to <a href="https://live-term-alifelivedfully.vercel.app/">Vercel</a></p>
 <br/>
 
 
@@ -68,7 +72,7 @@
 
 <details>
   <summary>Recent Podcasts:</summary>  
-<!-- PODCAST-POST-LIST:START --><a href='https://anchor.fm/alifelivedfully/episodes/Coming-soon-e1je4qa'>Coming soon...</a> </br><a href='https://anchor.fm/alifelivedfully/episodes/ep-e1je51b'>ALifeLivedFully &lpar;Trailer&rpar;</a> </br><!-- PODCAST-POST-LIST:END -->
+<!-- PODCAST-POST-LIST:START --><a href='https://anchor.fm/alifelivedfully/episodes/Coming-soon-e1je4qa'>Coming soon...</a> </br> <a href='https://anchor.fm/alifelivedfully/episodes/ep-e1je51b'>ALifeLivedFully &lpar;Trailer&rpar;</a> </br> <!-- PODCAST-POST-LIST:END -->
 <a href='https://anchor.fm/alifelivedfully/'>See More Here...</a>
 </details>
 
