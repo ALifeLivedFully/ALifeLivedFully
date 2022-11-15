@@ -5,12 +5,12 @@
 
 <br/>
 <h2 align="center">What I'm learning:</h2>
-<p align="center">1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a>.</p> 
+<p align="center">1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a></p> 
 <p align="center">I try to track my progress on <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/SpeedRunEthereum-Progress.md'>Github</a> and on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.
 </p>
 <br/>
 <p align="center">
-  2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org</a>.</p>
+  2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org</a></p>
   <p align="center">I try to track my progress both on <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/FreeCodeCamp-Progress.md'>Github</a> as well as on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.
 </p>
 <br/>
@@ -18,11 +18,11 @@
 
 <h2 align="center">My Projects:</h2>
 <p align="center">
-1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully Website</a>.</p> 
+1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully Website</a></p> 
 <p align="center">My personal website and the future central hub of my online presence.</p>  
 <br/>  
 <p align="center">
-2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a>.</p> 
+2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a></p> 
 <p align="center">This project takes 4 videos as input: intro, outro, main content, and ad. It then exports your videos as a single video with your videos in order: intro, part one, ad, part two, and outro.
 </p>
 <br/>
@@ -42,7 +42,7 @@
 
 
 <h2 align="center">My latest experiments:</h2>
-<p align="center">1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a>.</p>  
+<p align="center">1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a></p>  
 <p align="center">A minimal terminal styled website, powered by Next.js. Code stored on <a href="https://github.com/ALifeLivedFully/LiveTerm">Github</a> and automatically deployed to <a href="https://live-term-alifelivedfully.vercel.app/">Vercel</a></p>  
 <br/>
 
