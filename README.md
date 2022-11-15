@@ -4,7 +4,7 @@
 
 
 <br/>
-<h1 align="center">What I'm learning:</h1>
+<h2 align="center">What I'm learning:</h2>
 <p align="center">
   1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a>. I try to track my progress on <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/SpeedRunEthereum-Progress.md'>Github</a> and on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.
 </p>
@@ -14,7 +14,7 @@
 <br/>
 
 
-<h1 align="center">My Projects:</h1>
+<h2 align="center">My Projects:</h2>
 <p align="center">1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully.com</a></br> My personal website and the future central hub of my online presence.
 </p>
 <p align="center">2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a></br> This project creates a video with your reusable intro, inserts an ad in the middle of your main video, and then plays your outro all using remotion.
@@ -33,12 +33,13 @@
 
 -->
 <br/>
-<!--
-<h1 align="center">My latest experiments:</h1>
-<p align="center">1. <a href='link to project'></a>. Description here.
+
+<h2 align="center">My latest experiments:</h2>
+<p align="center">1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a></br> 
+  A minimal terminal styled website, powered by Next.js. Code stored on <a href="https://github.com/ALifeLivedFully/LiveTerm">Github</a> and automatically deployed to <a href="https://live-term-alifelivedfully.vercel.app/">Vercel</a>
 </p>
 <br/>
--->
+
 
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
