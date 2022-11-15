@@ -17,11 +17,13 @@
 
 
 <h2 align="center">My Projects:</h2>
-<p align="center">1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully.com</a></p> 
-<p align="center">My personal website and the future central hub of my online presence.</p>
-<br/>
-<p align="center">2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a></p> 
-<p align="center">This project creates a video with your reusable intro, inserts an ad in the middle of your main video, and then plays your outro all using remotion.
+<p align="center">
+1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully Website</a>.</p> 
+<p align="center">My personal website and the future central hub of my online presence.</p>  
+<br/>  
+<p align="center">
+2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a>.</p> 
+<p align="center">This project takes 4 videos as input: intro, outro, main content, and ad. It then exports your videos as a single video with your videos in order: intro, part one, ad, part two, and outro.
 </p>
 <br/>
 
@@ -40,8 +42,8 @@
 
 
 <h2 align="center">My latest experiments:</h2>
-<p align="center">1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a>.</p>
-<p align="center">A minimal terminal styled website, powered by Next.js. Code stored on <a href="https://github.com/ALifeLivedFully/LiveTerm">Github</a> and automatically deployed to <a href="https://live-term-alifelivedfully.vercel.app/">Vercel</a></p>
+<p align="center">1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a>.</p>  
+<p align="center">A minimal terminal styled website, powered by Next.js. Code stored on <a href="https://github.com/ALifeLivedFully/LiveTerm">Github</a> and automatically deployed to <a href="https://live-term-alifelivedfully.vercel.app/">Vercel</a></p>  
 <br/>
 
 
