@@ -1,4 +1,3 @@
-<body background-color="black" color="white">
 <h1 align="center">👋Hi there, I'm Dani - aka <a href="https://links.alifelivedfully.com">ALifeLivedFully</a>👋</h1>
 <h3 align="center">A passionate developer and creator.</h3>
 <p align="center">I like to code and build things, recently i have been focusing on building my portfolio and gaining as much knowledge as i can in topics that peak my intrest. other than coding, I enjoy camping, travel, home brewing, small engine repair, cooking, reading, and more.</p>
@@ -182,5 +181,3 @@ JlwMfE2jCcTOydbem8yz7t7hTAF1ETw3NNqL
 [youtube]: https://youtube.com/ALifeLivedFully
 [instagram]: https://instagram.com/ALifeLivedFully
 [linkedin]: https://linkedin.com/in/ALifeLivedFully
-
-  </body>
