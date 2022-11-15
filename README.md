@@ -90,7 +90,8 @@
   <summary>🔒PGP Public Key:</summary>
   <p>To ensure private communication check <a href='https://keybase.io/alifelivedfully'>my Keybase.io</a> for up to date encryption keys.</p>
   
-```
+
+<pre><code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: https://keybase.io/download
 Version: Keybase Go 6.0.1 (windows)
@@ -169,8 +170,8 @@ dOT9wffzvRlK981pFPxXZHzOQ/AiJ7IqnKLzLdkivIUpGTVnf0A+PItA0zzenGB/
 GEvNfne+DNv8EA3jGC8l/aYUjt+IrCxpLLsg3jQfo+e6dqIHeVChbw+CIkMENvOH
 JlwMfE2jCcTOydbem8yz7t7hTAF1ETw3NNqL
 =3LKz
------END PGP PUBLIC KEY BLOCK-----
-```
+-----END PGP PUBLIC KEY BLOCK----- 
+</code></pre>
 
 </details>
 
