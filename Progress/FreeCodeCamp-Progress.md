@@ -1,6 +1,8 @@
 # 🔥💻 [FreeCodeCamp.org](https://www.freecodecamp.org/) Progress
 freeCodeCamp is a community of millions of people around the world who are learning to code together. You can learn to code with free online courses, programming projects, and interview preparation for developer jobs. They are a 501(c)(3) public charity.
 
+- [My Github Account](https://github.com/ALifeLivedFully/)
+- [My Common Links](https://Links.ALifeLivedFully.com)
 - [My FreeCodeCamp Account](https://www.freecodecamp.org/alifelivedfully)
 - [My CodePen Account](https://codepen.io/alifelivedfully/)
 
