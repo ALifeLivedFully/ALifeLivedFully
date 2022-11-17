@@ -9,7 +9,7 @@ freeCodeCamp is a community of millions of people around the world who are learn
 **Certifications Started:**
 - [x] [Responsive Web Design - New](#responsive-web-design)
 - [x] [Responsive Web Design - Legacy](#responsive-web-design)
-- [ ] [Javascript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
+- [x] [Javascript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
 - [ ] [Front End Development Libraries](#front-end-development-libraries)
 - [ ] [Data Visualization](#data-visualization)
 - [ ] [Relational Database - Beta](#relational-database-beta)
