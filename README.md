@@ -81,9 +81,7 @@
 
 <details>
   <summary>Recent Podcasts:</summary>  
-<!-- PODCAST-POST-LIST:START -->
-
-<!-- PODCAST-POST-LIST:END -->
+<!-- PODCAST-POST-LIST:START --><a href='https://anchor.fm/alifelivedfully/episodes/Coming-soon-e1je4qa'>Coming soon...</a> <br><a href='https://anchor.fm/alifelivedfully/episodes/ep-e1je51b'>ALifeLivedFully &lpar;Trailer&rpar;</a> <br><!-- PODCAST-POST-LIST:END -->
 <a href='https://anchor.fm/alifelivedfully/'>See More Here...</a>
 </details>
 
