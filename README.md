@@ -71,6 +71,13 @@
 </p>
 
 
+<details>
+  <summary>Recent Youtube Videos:</summary>
+<!-- YOUTUBE-POST-LIST:START -->
+  
+<!-- YOUTUBE-POST-LIST:END -->
+<a href='https://www.youtube.com/@ALifeLivedFully'>See More Here...</a>
+</details>
 
 <details>
   <summary>Recent Podcasts:</summary>  
@@ -79,7 +86,7 @@
 </details>
 
 <details>
-  <summary>Recent Blog posts:</summary>
+  <summary>Recent Blog Posts:</summary>
 <!-- BLOG-POST-LIST:START -->
   
 <!-- BLOG-POST-LIST:END -->
