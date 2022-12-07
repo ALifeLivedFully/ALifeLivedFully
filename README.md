@@ -73,13 +73,17 @@
 
 <details>
   <summary>Recent Videos:</summary>
-<!-- YOUTUBE-POST-LIST:START --><a href='https://www.youtube.com/watch?v=TQWY6ezf54c'>my title</a> </br><a href='https://www.youtube.com/watch?v=_Pj5gXB8Q2w'>video 3 -test</a> </br><a href='https://www.youtube.com/watch?v=RrjxnzOzaAk'>video 2 - still testing</a> </br><a href='https://www.youtube.com/watch?v=MHag8Hh6tlw'>first upload - test</a> </br><!-- YOUTUBE-POST-LIST:END -->
+<!-- YOUTUBE-POST-LIST:START -->
+
+<!-- YOUTUBE-POST-LIST:END -->
 <a href='https://www.youtube.com/@ALifeLivedFully'>See More Here...</a>
 </details>
 
 <details>
   <summary>Recent Podcasts:</summary>  
-<!-- PODCAST-POST-LIST:START --><a href='https://anchor.fm/alifelivedfully/episodes/Coming-soon-e1je4qa'>Coming soon...</a> <br><a href='https://anchor.fm/alifelivedfully/episodes/ep-e1je51b'>ALifeLivedFully &lpar;Trailer&rpar;</a> <br><!-- PODCAST-POST-LIST:END -->
+<!-- PODCAST-POST-LIST:START -->
+
+<!-- PODCAST-POST-LIST:END -->
 <a href='https://anchor.fm/alifelivedfully/'>See More Here...</a>
 </details>
 
