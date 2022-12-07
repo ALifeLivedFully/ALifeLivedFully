@@ -70,7 +70,11 @@
 <a href="https://medium.com/feed/@alifelivedfully" target="blank"><img align="center" src="Images/rss.svg" alt="https://medium.com/feed/@alifelivedfully" height="30" width="40" /></a>
 </p>
 
+--- 
 
+<h3 align="center">Recent Activity:</h3>
+<!-- <p align="center"> </p> -->
+  
 <details>
   <summary>Recent Videos:</summary>
 <!-- YOUTUBE-POST-LIST:START -->
