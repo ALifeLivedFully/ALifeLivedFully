@@ -72,7 +72,7 @@
 
 
 <details>
-  <summary>Recent Youtube Videos:</summary>
+  <summary>Recent Videos:</summary>
 <!-- YOUTUBE-POST-LIST:START -->
   
 <!-- YOUTUBE-POST-LIST:END -->
