@@ -55,7 +55,7 @@
 
 
 <h2 align="center">My latest experiments:</h2>
-<p align="center">1. <a href="https://Terminal.ALifeLivedFully.com/"></a></p>  
+<p align="center">1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a></p>  
 <p align="center">A minimal terminal styled website, powered by Next.js. Code stored on <a href="https://github.com/ALifeLivedFully/LiveTerm">Github</a> and automatically deployed to <a href="https://live-term-alifelivedfully.vercel.app/">Vercel</a></p>  
 <br/>
 
