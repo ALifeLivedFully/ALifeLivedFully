@@ -6,14 +6,18 @@
 <br/>
 <h2 align="center">What I'm learning:</h2>
 <p align="center">1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a></p> 
-<p align="center">I try to track my progress on <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/SpeedRunEthereum-Progress.md'>Github</a> and on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.
-</p>
-<br/>
+<p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/SpeedRunEthereum-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/SpeedRunEthereum'>SpeedRunEthereum Repository</a>.
+</br>
+  <p align="center">My progress is also recorded on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.</p>
+</br>
+</br>
 <p align="center">
   2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org Certifications</a></p>
-  <p align="center">I try to track my progress both on Github through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/FreeCodeCamp-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/FreeCodeCamp'>FreeCodeCamp Repository</a>. My progress is also recorded on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.
-</p>
+  <p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/FreeCodeCamp-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/FreeCodeCamp'>FreeCodeCamp Repository</a>.</p>
+  </br>
+  <p align="center">My progress is also recorded on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.</p>
 <br/>
+</br>
 <p align="center">
   2. <a href='https://www.comptia.org/certifications'>Comptia.org Certifications</a></p>
   <p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/CompTIA-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/CompTIA'>CompTIA Repository</a>.
