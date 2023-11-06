@@ -17,7 +17,7 @@
 </br>
 </br>
 <p align="center">
-  2. <a href='https://www.comptia.org/certifications'>Comptia.org Certifications</a></p>
+  3. <a href='https://www.comptia.org/certifications'>Comptia.org Certifications</a></p>
   <p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/CompTIA-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/CompTIA'>CompTIA Repository</a>.
 </p>
 <br/>
