@@ -26,8 +26,9 @@
 <h2 align="center">My Projects:</h2>
 <p align="center">
 1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully Website</a></p> 
-<p align="center">My personal website and the future central hub of my online presence.</p>  
-<p align="center">Learn more about the development process <a href='https://github.com/ALifeLivedFully-Domain'>Here</a>, or <a href='https://www.ALifeLivedFully.com/'>Visit the website directly.</a></p>  
+<p align="center">My personal website and the future central hub of my online presence. 
+  <br/>
+  Learn more about the development process <a href='https://github.com/ALifeLivedFully-Domain'>Here</a>, or <a href='https://www.ALifeLivedFully.com/'>Visit the website directly.</a></p>  
 <br/>  
 <p align="center">
 2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a></p> 
