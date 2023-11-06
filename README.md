@@ -10,8 +10,13 @@
 </p>
 <br/>
 <p align="center">
-  2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org</a></p>
-  <p align="center">I try to track my progress both on <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/FreeCodeCamp-Progress.md'>Github</a> as well as on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.
+  2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org Certifications</a></p>
+  <p align="center">I try to track my progress both on Github through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/FreeCodeCamp-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/FreeCodeCamp'>FreeCodeCamp Repository</a>. My progress is also recorded on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.
+</p>
+<br/>
+<p align="center">
+  2. <a href='https://www.comptia.org/certifications'>Comptia.org Certifications</a></p>
+  <p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/CompTIA-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/CompTIA'>CompTIA Repository</a>.
 </p>
 <br/>
 
@@ -20,6 +25,8 @@
 <p align="center">
 1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully Website</a></p> 
 <p align="center">My personal website and the future central hub of my online presence.</p>  
+<br/>  
+<p align="center">Learn more about the development process <a href='https://github.com/ALifeLivedFully-Domain'>Here</a>, or <a href='https://www.ALifeLivedFully.com/'>Visit the website directly.</a></p>  
 <br/>  
 <p align="center">
 2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a></p> 
