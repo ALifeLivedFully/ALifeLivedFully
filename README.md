@@ -16,7 +16,7 @@
   <p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/FreeCodeCamp-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/FreeCodeCamp'>FreeCodeCamp Repository</a>.</p>
   </br>
   <p align="center">My progress is also recorded on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.</p>
-<br/>
+</br>
 </br>
 <p align="center">
   2. <a href='https://www.comptia.org/certifications'>Comptia.org Certifications</a></p>
