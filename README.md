@@ -48,10 +48,12 @@
 </p>
 
 -->
-
+| My latest experiments: | My hobbies: |
+| --- | --- |
+| **Live-Terminal**, A minimal terminal styled website, powered by Next.js. Code stored on [Github](https://github.com/ALifeLivedFully/LiveTerm) and automatically deployed to [Vercel](https://live-term-alifelivedfully.vercel.app/) | Engine Maintenance |
 
 <h2 align="center">My latest experiments:</h2>
-<p align="center">1. <a href="https://Terminal.ALifeLivedFully.com/">Live-Terminal</a></p>  
+<p align="center">1. <a href="https://Terminal.ALifeLivedFully.com/"></a></p>  
 <p align="center">A minimal terminal styled website, powered by Next.js. Code stored on <a href="https://github.com/ALifeLivedFully/LiveTerm">Github</a> and automatically deployed to <a href="https://live-term-alifelivedfully.vercel.app/">Vercel</a></p>  
 <br/>
 
