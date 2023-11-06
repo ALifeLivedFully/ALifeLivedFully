@@ -47,10 +47,12 @@
 <p align="center">2. <a href='https://www.ArtistsGuild.com/'>ArtistsGuild.com</a>. A platform for artists to more easily monitize their art and create a more profitable practice.
 </p>
 
--->
+
 | My latest experiments: | My hobbies: |
 | --- | --- |
 | **Live-Terminal**, A minimal terminal styled website, powered by Next.js. Code stored on [Github](https://github.com/ALifeLivedFully/LiveTerm) and automatically deployed to [Vercel](https://live-term-alifelivedfully.vercel.app/) | Engine Maintenance |
+-->
+
 
 <h2 align="center">My latest experiments:</h2>
 <p align="center">1. <a href="https://Terminal.ALifeLivedFully.com/"></a></p>  
