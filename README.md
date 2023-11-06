@@ -27,7 +27,6 @@
 <p align="center">
 1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully Website</a></p> 
 <p align="center">My personal website and the future central hub of my online presence.</p>  
-<br/>  
 <p align="center">Learn more about the development process <a href='https://github.com/ALifeLivedFully-Domain'>Here</a>, or <a href='https://www.ALifeLivedFully.com/'>Visit the website directly.</a></p>  
 <br/>  
 <p align="center">
