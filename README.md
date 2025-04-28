@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer and creator.</h3>
 <p align="center">I like to code and build things, recently I have been focusing on building my portfolio and gaining as much knowledge as I can in topics that pique my interest. other than coding, I enjoy camping, travel, home brewing, small engine repair, cooking, reading, and more.</p>
 
+<img align="center" src="Images/card.svg" alt="alifelivedfully" height="500" width="500" />
 
 <br/>
 <p align="center">
