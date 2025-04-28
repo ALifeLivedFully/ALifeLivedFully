@@ -4,6 +4,12 @@
 
 
 <br/>
+<p align="center">
+<a href='https://ko-fi.com/J3J8FMBMJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
+
+
+<br/>
 <h2 align="center">What I'm learning:</h2>
 <p align="center">1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a></p> 
 <p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/SpeedRunEthereum-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/SpeedRunEthereum'>SpeedRunEthereum Repository</a>.</p>
@@ -82,6 +88,7 @@
 <a href="https://medium.com/@alifelivedfully" target="blank"><img align="center" src="Images/medium.svg" alt="@alifelivedfully" height="30" width="40" /></a>
 <a href="https://medium.com/feed/@alifelivedfully" target="blank"><img align="center" src="Images/rss.svg" alt="https://medium.com/feed/@alifelivedfully" height="30" width="40" /></a>
 </p>
+
 
 --- 
 
