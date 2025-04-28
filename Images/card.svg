@@ -1,0 +1,19 @@
+<svg width="300" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card Background -->
+  <rect width="300" height="250" rx="15" ry="15" style="fill:white;stroke:#ccc;stroke-width:2;filter: drop-shadow(2px 2px 5px rgba(0,0,0,0.1));"/>
+
+  <!-- Large image with padding -->
+  <image href="https://img.freepik.com/free-psd/latte-art-heart-shaped-coffee-cup-saucer_84443-34560.jpg" x="20" y="10" width="260" height="120"/>
+
+  <!-- Centered Title -->
+  <text x="150" y="150" font-size="24" font-family="Arial" fill="#333" text-anchor="middle">Coffee</text>
+
+  <!-- Centered Body Text -->
+  <text x="150" y="180" font-size="16" font-family="Arial" fill="#666" text-anchor="middle">Half-caf vanilla latte</text>
+
+  <!-- Link only around the button -->
+  <a href="https://www.google.com" target="_blank">
+    <rect x="100" y="200" width="100" height="30" rx="5" ry="5" style="fill:#007bff;"/>
+    <text x="150" y="220" font-size="16" font-family="Arial" fill="white" text-anchor="middle">Buy</text>
+  </a>
+</svg>
