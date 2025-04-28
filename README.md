@@ -11,33 +11,33 @@
 
 <br/>
 <h2 align="center">What I'm learning:</h2>
-<p align="center">1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a></p> 
+<p align="center"><b>1. <a href='https://speedrunethereum.com/'>Speedrun Ethereum Challenge</a></b></p> 
 <p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/SpeedRunEthereum-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/SpeedRunEthereum'>SpeedRunEthereum Repository</a>.</p>
 <p align="center">My progress is also recorded on the <a href='https://speedrunethereum.com/builders/0x70B5901f6cFEFb514dBe1656c08fA1b875F28E96'>SpeedrunEthereum Website</a>.</p>
 </br>
 </br>
-<p align="center">
-  2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org Certifications</a></p>
+<p align="center"><b>
+  2. <a href='https://www.freecodecamp.org/'>FreeCodeCamp.org Certifications</a></b></p>
   <p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/FreeCodeCamp-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/FreeCodeCamp'>FreeCodeCamp Repository</a>.</p>  
   <p align="center">My progress is also recorded on the <a href='https://www.freecodecamp.org/alifelivedfully'>FreeCodeCamp.org Website</a>.</p>
 </br>
 </br>
-<p align="center">
-  3. <a href='https://www.comptia.org/certifications'>Comptia.org Certifications</a></p>
+<p align="center"><b>
+  3. <a href='https://www.comptia.org/certifications'>Comptia.org Certifications</a></b></p>
   <p align="center">I try to track my progress on Github, through a <a href='https://github.com/ALifeLivedFully/ALifeLivedFully/blob/main/Progress/CompTIA-Progress.md'>Simplified overview</a> as well as on a dedicated <a href='https://github.com/ALifeLivedFully/CompTIA'>CompTIA Repository</a>.
 </p>
 <br/>
 
 
 <h2 align="center">My Projects:</h2>
-<p align="center">
-1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully Website</a></p> 
+<p align="center"><b>
+1. <a href='https://www.ALifeLivedFully.com/'>ALifeLivedFully Website</a></b></p> 
 <p align="center">My personal website and the future central hub of my online presence. 
   <br/>
   Learn more about the development process <a href='https://github.com/ALifeLivedFully-Domain'>Here</a>, or <a href='https://www.ALifeLivedFully.com/'>Visit the website directly.</a></p>  
 <br/>  
-<p align="center">
-2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a></p> 
+<p align="center"><b>
+2. <a href='https://www.Github.com/ALifeLivedFully/'>Automated Video Production</a></b></p> 
 <p align="center">This project takes 4 videos as input: intro, outro, main content, and ad. It then exports your videos as a single video with your videos in order: intro, part one, ad, part two, and outro.
 </p>
 <br/>
@@ -61,7 +61,7 @@
 
 
 <h2 align="center">My latest experiments:</h2>
-<p align="center">1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a></p>  
+<p align="center"><b>1. <a href="https://live-term-alifelivedfully.vercel.app/">Live-Terminal</a></b></p>  
 <p align="center">A minimal terminal styled website, powered by Next.js. Code stored on <a href="https://github.com/ALifeLivedFully/LiveTerm">Github</a> and automatically deployed to <a href="https://live-term-alifelivedfully.vercel.app/">Vercel</a></p>  
 <br/>
 
